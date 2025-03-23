@@ -5,7 +5,7 @@ test_sword:
   - 'What is this sword?'
   NBT:
     PublicBukkitValues:
-      rcpve:max_level: "20"
+      rcpve:max_level: 20
 
 test_exp:
   Id: experience_bottle
@@ -14,4 +14,4 @@ test_exp:
   - 'fmm... where is from?'
   NBT:
     PublicBukkitValues:
-      rcpve:exp_amount: "16000"
+      rcpve:exp_amount: 16000
