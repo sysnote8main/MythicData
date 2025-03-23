@@ -1,0 +1,17 @@
+test_sword:
+  Id: iron_sword
+  Display: 'てーすとな剣'
+  Lore:
+  - 'What is this sword?'
+  NBT:
+    PublicBukkitValues:
+      rcpve:max_level: "20"
+
+test_exp:
+  Id: experience_bottle
+  Display: '経験値の塊'
+  Lore:
+  - 'fmm... where is from?'
+  NBT:
+    PublicBukkitValues:
+      rcpve:exp_amount: "16000"
