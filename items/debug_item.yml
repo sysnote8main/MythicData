@@ -15,3 +15,23 @@ test_exp:
   NBT:
     PublicBukkitValues:
       rcpve:exp_amount: "int/16000"
+
+test_chestplate:
+  Id: leather_chestplate
+  Display: <green>粗末な胴当て</green>
+  Lore:
+  - そこら辺に落ちていそうなただの胴当て
+  - <gray>焼け跡から見つかったようだ...</gray>
+  NBT:
+    PublicBukkitValues:
+      rcpve:fire: 5
+
+test_boots:
+  Id: leather_boots
+  Display: <blue>人魚の足ひれ</blue>
+  Lore:
+  - 海辺で拾った足ひれ
+  - <gray>一見、だたの足ひれのようだが、人魚のうろこでできている。</gray>
+  NBT:
+    PublicBukkitValues:
+      rcpve:water: 8
